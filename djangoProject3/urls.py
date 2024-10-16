@@ -26,4 +26,4 @@ urlpatterns = [
     path('top-tracks/', views.top_tracks, name='top_tracks'),
 ]
 
-print("hello")
+
