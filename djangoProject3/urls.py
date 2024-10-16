@@ -25,3 +25,5 @@ urlpatterns = [
     path('login/', views.login, name='login'),
     path('top-tracks/', views.top_tracks, name='top_tracks'),
 ]
+
+print("hello")
